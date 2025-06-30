@@ -213,6 +213,12 @@
     }
 
   }
+  #mainHeader
+  {
+   
+    background: rgb(8,146,208);
+    background: linear-gradient(159deg, rgba(8,146,208,1) 0%, rgb(126, 3, 214) 100%);;
+  }
 
   
   
